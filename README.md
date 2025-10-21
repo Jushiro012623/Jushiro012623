@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Ivan Macabontoc, a passionate Full-Stack Developer from Philippines.<br><br>- 🔭 I’m working as a Backend Developer from Pisopay.com.ph<br>- 📚 I'm currently learning NextJs<br>- ⚡ Ask me about : React, Laravel, ExpressJs</p>
+<p align="left">I'm Ivan Macabontoc, a passionate Full-Stack Developer from Philippines.<br><br>- 🔭 I’m working as a Backend Developer from Pisopay.com.ph<br>- 📚 I'm currently learning NextJs, NestJs, AngularJs<br>- ⚡ Ask me about : ReactJs, Laravel, ExpressJs, NodeJs</p>
 
 ###
 
